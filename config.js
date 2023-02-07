@@ -70,7 +70,7 @@ global.APIKeys = {
 
    //---------------------------------------------------------------------
 
-   global.worktype = 'private'
+   global.worktype = 'public'
 
    //---------------------------------------------------------------------
    
@@ -107,7 +107,7 @@ global.APIKeys = {
 
    global.linkbuttid2 = 'ʏᴏᴜᴛᴜʙᴇ'
    //-------------
-   global.butturl2 = 'https://youtube.com/c/alienalfa'
+   global.butturl2 = 'https://youtube.com/SANDARU-YT'
    
    //---------------------------------------------------------------------
 
@@ -119,7 +119,7 @@ global.APIKeys = {
 
    global.linktext = 'ꜱᴜʙꜱᴄʀɪʙᴇ ᴛᴏ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ'
    //-------------
-   global.linkurl = 'https://youtube.com/c/alienalfa'
+   global.linkurl = 'https://youtube.com/SANDARU-YT'
    
    //---------------------------------------------------------------------
 
@@ -150,7 +150,7 @@ global.APIKeys = {
    
    global.mlinktxt1 = 'ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʙᴏᴛ'
    //-------------
-   global.mlinkurl1 = 'https://youtube.com/c/alienalfa'
+   global.mlinkurl1 = 'https://youtube.com/SANDARU-YT'
    //------------- 
    
  //------ URL BUTTON 2 -----
@@ -209,7 +209,7 @@ global.icon = '✩'
 //-------------
 global.mail = 'AlienAlfa.YT@gmail.com'
 //-------------
-global.youtube = 'https://youtube.com/c/alienalfa'
+global.youtube = 'https://youtube.com/SANDARU-YT'
 //-------------
 global.github = 'https://github.com/Alien-alfa/' 
 //-------------
